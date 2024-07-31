@@ -11,7 +11,7 @@ const Home = () => {
         <span className="text-5xl font-semibold text-brightGreen">Himilo</span>
         <p className="text-lightText mt-5 text-start">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur
-          veniam cum voluptates facere laboriosam, dignissimos eum quis
+          veniam cum voluptates facere laboriosam, dignissimos dtr fdd eum quis
           quibusdam deleniti nesciunt quam. Labore fugit, quasi voluptatum eius
           debitis cupiditate ipsam aliquid.
         </p>
