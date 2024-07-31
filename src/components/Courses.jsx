@@ -16,7 +16,7 @@ const Courses = () => {
       <div className="flex flex-wrap justify-center gap-6 mt-6">
         <CourseCard img={webImg} title="Web Development" />
         <CourseCard img={appImg} title="App Development" />
-        <CourseCard img={graphicImg} title="Graphic Designer" />
+        <CourseCard img={graphicImg} title="Graphic Design" />
         <CourseCard img={digitalImg} title="Digital Marketing" />
       </div>
     </div>
