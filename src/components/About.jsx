@@ -13,6 +13,7 @@ const About = () => {
       <div className="w-full md:w-2/4 text-center space-y-2">
         <Heading title1= "About" title2= "Us?" />
         <p>
+          welcom to our platform
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
           quae nobis maiores voluptatum suscipit amet? Modi itaque excepturi
           labore consequuntur, eligendi adipisci reiciendis beatae, ullam, quasi
